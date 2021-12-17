@@ -1,3 +1,4 @@
+import './assets/style.css'
 import * as THREE from 'three';
 import { DoubleSide } from 'three';
 import fragment from './shaders/fragment.glsl'
